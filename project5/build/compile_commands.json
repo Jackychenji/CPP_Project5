@@ -1,0 +1,7 @@
+[
+{
+  "directory": "D:/CPP_mycode/project5/build",
+  "command": "C:\\mingw64\\bin\\g++.exe -DWITH_AVX2  -g -mfma -fopenmp -mavx2 -O3 -o CMakeFiles\\matrix.dir\\test.cpp.obj -c D:\\CPP_mycode\\project5\\test.cpp",
+  "file": "D:/CPP_mycode/project5/test.cpp"
+}
+]
